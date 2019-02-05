@@ -10,20 +10,14 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Packages
 ```
-npm run build
-```
+vue-kanban
+https://www.npmjs.com/package/vue-kanban
 
-### Run your tests
-```
-npm run test
-```
+dom-autoscroller
+https://www.npmjs.com/package/dom-autoscroller
 
-### Lints and fixes files
+dragula
+https://www.npmjs.com/package/dragula
 ```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
